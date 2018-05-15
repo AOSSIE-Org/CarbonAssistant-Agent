@@ -26,7 +26,21 @@
       "fluoroscent",
       "CFL",
       "incandescent",
-      "LED"
+      "LED",
+      "Conventional",
+      "Convection",
+      "250L",
+      "500L",
+      "600L",
+      "CRT",
+      "LCD",
+      "Plasma",
+      "S",
+      "standard",
+      "automatic",
+      "with element",
+      "king",
+      "queen"
     ]
   },
   {

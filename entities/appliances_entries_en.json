@@ -161,5 +161,162 @@
     "synonyms": [
       "Lighting"
     ]
+  },
+  {
+    "value": "Microoven",
+    "synonyms": [
+      "Microoven"
+    ]
+  },
+  {
+    "value": "Oven",
+    "synonyms": [
+      "Oven"
+    ]
+  },
+  {
+    "value": "Nebuliser",
+    "synonyms": [
+      "Nebuliser"
+    ]
+  },
+  {
+    "value": "Radio",
+    "synonyms": [
+      "Radio"
+    ]
+  },
+  {
+    "value": "Range Hood",
+    "synonyms": [
+      "Range Hood"
+    ]
+  },
+  {
+    "value": "Refrigerator",
+    "synonyms": [
+      "Refrigerator"
+    ]
+  },
+  {
+    "value": "Saw portable",
+    "synonyms": [
+      "Saw portable",
+      "portable saw"
+    ]
+  },
+  {
+    "value": "Sewing Machine",
+    "synonyms": [
+      "Sewing Machine"
+    ]
+  },
+  {
+    "value": "Shaver",
+    "synonyms": [
+      "Shaver"
+    ]
+  },
+  {
+    "value": "Slow cooker",
+    "synonyms": [
+      "Slow cooker"
+    ]
+  },
+  {
+    "value": "Stereo",
+    "synonyms": [
+      "Stereo"
+    ]
+  },
+  {
+    "value": "Radio",
+    "synonyms": [
+      "Radio"
+    ]
+  },
+  {
+    "value": "Record Player",
+    "synonyms": [
+      "Record Player"
+    ]
+  },
+  {
+    "value": "Swimming Pool Pump",
+    "synonyms": [
+      "Swimming Pool Pump"
+    ]
+  },
+  {
+    "value": "Salt water chlorinator",
+    "synonyms": [
+      "Salt water chlorinator"
+    ]
+  },
+  {
+    "value": "Television",
+    "synonyms": [
+      "Television"
+    ]
+  },
+  {
+    "value": "Towel rail",
+    "synonyms": [
+      "Towel rail"
+    ]
+  },
+  {
+    "value": "Vacuum cleaner",
+    "synonyms": [
+      "Vacuum cleaner"
+    ]
+  },
+  {
+    "value": "DVD player",
+    "synonyms": [
+      "DVD player"
+    ]
+  },
+  {
+    "value": "Washing machine",
+    "synonyms": [
+      "Washing machine"
+    ]
+  },
+  {
+    "value": "Water bed",
+    "synonyms": [
+      "Water bed"
+    ]
+  },
+  {
+    "value": "Welder",
+    "synonyms": [
+      "Welder"
+    ]
+  },
+  {
+    "value": "Water heater",
+    "synonyms": [
+      "Water heater"
+    ]
+  },
+  {
+    "value": "Heat pump",
+    "synonyms": [
+      "Heat pump"
+    ]
+  },
+  {
+    "value": "Storage Heater",
+    "synonyms": [
+      "Storage Heater"
+    ]
+  },
+  {
+    "value": "Spa heater",
+    "synonyms": [
+      "Spa heater"
+    ]
   }
 ]
