@@ -1,0 +1,332 @@
+[
+  {
+    "id": "603652a4-4aa7-4c27-be69-2eea6f37505a",
+    "data": [
+      {
+        "text": "tell me the amount of ",
+        "userDefined": false
+      },
+      {
+        "text": "Methane",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emitted when a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "appliance_specs",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air cooler",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " is used for ",
+        "userDefined": false
+      },
+      {
+        "text": "2 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518895989
+  },
+  {
+    "id": "59f91f66-77bc-4f9b-a8a9-80d9c41447c9",
+    "data": [
+      {
+        "text": "please tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "Co2",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emission for an ",
+        "userDefined": false
+      },
+      {
+        "text": "exhaust",
+        "alias": "appliance_specs",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fan",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518895989
+  },
+  {
+    "id": "8c8fd22e-903f-4143-a159-13b2c7b2789e",
+    "data": [
+      {
+        "text": "what are different emissions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "appliance_specs",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518956400
+  },
+  {
+    "id": "ea99f38a-5dc4-4836-9a22-7e8573c58169",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "Methane",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "fixed",
+        "alias": "appliance_specs",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air cooler",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518895989
+  },
+  {
+    "id": "bcc8f754-0156-4d10-9339-3da32520047f",
+    "data": [
+      {
+        "text": "what are emmisions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "appliance_specs",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518895989
+  },
+  {
+    "id": "f65bd135-e4b9-4b7d-9a96-e7df3af4de3a",
+    "data": [
+      {
+        "text": "How much ",
+        "userDefined": false
+      },
+      {
+        "text": "methane",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " is emitted when a ",
+        "userDefined": false
+      },
+      {
+        "text": "fixed",
+        "alias": "appliance_specs",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air cooler",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " is used in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pakistan",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518895989
+  },
+  {
+    "id": "6079c87a-2bc4-4f4c-bb36-a2f30b6ef0c5",
+    "data": [
+      {
+        "text": "When ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "count",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "appliance_specs",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air coolers",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " are used for ",
+        "userDefined": false
+      },
+      {
+        "text": "3 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ", how much ",
+        "userDefined": false
+      },
+      {
+        "text": "N2O",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " is emitted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1518895989
+  }
+]
