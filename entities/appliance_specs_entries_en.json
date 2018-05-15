@@ -2,18 +2,14 @@
   {
     "value": "type",
     "synonyms": [
-      "small",
-      "medium",
-      "large",
       "ducted",
       "portable",
       "fixed",
       "ducted",
       "single",
       "double",
-      "small rotary",
       "cabinet",
-      "large rotary",
+      "rotary",
       "wired in",
       "with monitor",
       "monitor and printer",
@@ -26,11 +22,19 @@
       "dryer",
       "curler",
       "styler",
-      "small portable",
-      "large portable",
+      "portable",
       "fluoroscent",
       "CFL",
-      "incandescent"
+      "incandescent",
+      "LED"
+    ]
+  },
+  {
+    "value": "size",
+    "synonyms": [
+      "small",
+      "medium",
+      "large"
     ]
   }
 ]

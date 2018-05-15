@@ -13,8 +13,8 @@
           "id": "81884926-4306-41dc-b212-eb66c7fb6b6f",
           "required": false,
           "dataType": "@appliance_specs",
-          "name": "appliance_specs",
-          "value": "$appliance_specs.original",
+          "name": "type",
+          "value": "$type",
           "isList": false
         },
         {
@@ -50,12 +50,10 @@
           "isList": false
         },
         {
-          "id": "8cbd8b72-9a58-4ff5-b8e4-996557d64858",
-          "required": false,
-          "dataType": "@sys.number",
-          "name": "count",
-          "value": "$count",
-          "isList": false
+          "id": "5349709d-5245-4799-b372-11ad669c60c1",
+          "dataType": "@appliance_specs",
+          "name": "size",
+          "value": "$size"
         }
       ],
       "messages": [
@@ -72,7 +70,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1518956400,
+  "lastUpdate": 1526392156,
   "fallbackIntent": false,
   "events": []
 }
