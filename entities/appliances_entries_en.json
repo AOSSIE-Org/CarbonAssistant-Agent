@@ -125,5 +125,41 @@
     "synonyms": [
       "Domestic water pressure pump"
     ]
+  },
+  {
+    "value": "Iron",
+    "synonyms": [
+      "Iron"
+    ]
+  },
+  {
+    "value": "Ironing machine",
+    "synonyms": [
+      "Ironing machine"
+    ]
+  },
+  {
+    "value": "Juice extractor",
+    "synonyms": [
+      "Juice extractor"
+    ]
+  },
+  {
+    "value": "Kettle",
+    "synonyms": [
+      "Kettle"
+    ]
+  },
+  {
+    "value": "Kiln Pottery",
+    "synonyms": [
+      "Kiln Pottery"
+    ]
+  },
+  {
+    "value": "Lighting",
+    "synonyms": [
+      "Lighting"
+    ]
   }
 ]
