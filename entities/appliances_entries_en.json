@@ -109,9 +109,9 @@
     ]
   },
   {
-    "value": "Hair",
+    "value": "Hair dryer",
     "synonyms": [
-      "Hair"
+      "Hair dryer"
     ]
   },
   {
@@ -318,6 +318,18 @@
     "value": "Spa heater",
     "synonyms": [
       "Spa heater"
+    ]
+  },
+  {
+    "value": "Hair curler",
+    "synonyms": [
+      "Hair curler"
+    ]
+  },
+  {
+    "value": "Hair styler",
+    "synonyms": [
+      "Hair styler"
     ]
   }
 ]
