@@ -14,7 +14,7 @@
           "required": false,
           "dataType": "@appliance_specs",
           "name": "type",
-          "value": "$type",
+          "value": "$type.original",
           "isList": false
         },
         {
@@ -51,9 +51,11 @@
         },
         {
           "id": "5349709d-5245-4799-b372-11ad669c60c1",
+          "required": false,
           "dataType": "@appliance_specs",
           "name": "size",
-          "value": "$size"
+          "value": "$size.original",
+          "isList": false
         }
       ],
       "messages": [
@@ -70,7 +72,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526392156,
+  "lastUpdate": 1526668053,
   "fallbackIntent": false,
   "events": []
 }
