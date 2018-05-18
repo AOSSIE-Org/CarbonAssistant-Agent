@@ -165,7 +165,8 @@
   {
     "value": "Microoven",
     "synonyms": [
-      "Microoven"
+      "Microoven",
+      "Microwave"
     ]
   },
   {
@@ -255,7 +256,8 @@
   {
     "value": "Television",
     "synonyms": [
-      "Television"
+      "Television",
+      "TV"
     ]
   },
   {
