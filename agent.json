@@ -22,9 +22,12 @@
   "defaultTimezone": "Asia/Colombo",
   "webhook": {
     "url": "https://us-central1-carbonfootprint-448b7.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
     "available": true,
     "useForDomains": false,
-    "cloudFunctionsEnabled": true,
+    "cloudFunctionsEnabled": false,
     "cloudFunctionsInitialized": true
   },
   "isPrivate": true,
