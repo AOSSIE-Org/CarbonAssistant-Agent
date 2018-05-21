@@ -1,6 +1,68 @@
 [
   {
-    "id": "005cd239-5a08-4513-b14d-c332a01d127d",
+    "id": "508185d7-7801-4380-bfee-dc93e75e8dd4",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions for ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CFL",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " lightings for ",
+        "userDefined": false
+      },
+      {
+        "text": "2 hours",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " of usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526926940
+  },
+  {
+    "id": "f7435812-5a25-4690-99e5-4956113ac005",
     "data": [
       {
         "text": "emissions for a ",
@@ -48,7 +110,7 @@
     "updated": 1526668053
   },
   {
-    "id": "f63bfa69-cb48-4a78-a7f2-4eabd9ebf4c7",
+    "id": "828c2950-7c2f-4d71-b1fa-0f632a68f356",
     "data": [
       {
         "text": "emissions for a ",
@@ -86,7 +148,7 @@
     "updated": 1526668053
   },
   {
-    "id": "0336dcab-397b-4b47-93e5-ff01ca26aff3",
+    "id": "ca0da270-755b-4b4d-8393-5d3818b59fe0",
     "data": [
       {
         "text": "When two ",
@@ -148,7 +210,7 @@
     "updated": 1526668053
   },
   {
-    "id": "448d99d6-6921-4c88-b122-229a5b51abc1",
+    "id": "1ff738ff-2a43-4fd1-9a3c-8f628855d35c",
     "data": [
       {
         "text": "what are emissions for ",
@@ -186,7 +248,7 @@
     "updated": 1526668053
   },
   {
-    "id": "e7d431bf-79e2-4cf5-a7f9-d3fa495eb7bc",
+    "id": "8a032287-35ee-453e-b921-7ae70190cebe",
     "data": [
       {
         "text": "tell me the amount of ",
@@ -234,7 +296,7 @@
     "updated": 1526668053
   },
   {
-    "id": "df007f62-50eb-474a-92ba-6cb0d6ad40ca",
+    "id": "7d40383e-abcd-4e74-8d35-bae94a02f2cc",
     "data": [
       {
         "text": "please tell me ",
@@ -282,7 +344,7 @@
     "updated": 1526668053
   },
   {
-    "id": "04d3bca0-7ec4-4022-a802-ba95c4fad6ef",
+    "id": "9db7a70e-8075-4a41-9b3b-f2c82ee73436",
     "data": [
       {
         "text": "what are different emissions for a ",
@@ -320,7 +382,7 @@
     "updated": 1526668053
   },
   {
-    "id": "66984e1c-44a7-40b4-9080-feb7730b00aa",
+    "id": "2198041d-a216-4ec6-bced-1656b2a106c2",
     "data": [
       {
         "text": "what is ",
@@ -358,7 +420,7 @@
     "updated": 1526668053
   },
   {
-    "id": "1ab55b90-8a0e-4dcf-a068-e007a4909b63",
+    "id": "cb4f0ab2-c83a-4d41-9de1-f85257208fde",
     "data": [
       {
         "text": "what are emmisions for a ",
@@ -396,7 +458,7 @@
     "updated": 1526668053
   },
   {
-    "id": "affeb4c4-fcf9-460c-87bc-a359de7a5e35",
+    "id": "c3f0da4d-5620-4b61-988e-35d2a58ca419",
     "data": [
       {
         "text": "How much ",

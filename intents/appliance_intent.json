@@ -14,8 +14,8 @@
           "required": false,
           "dataType": "@appliance_specs",
           "name": "type",
-          "value": "$type.original",
-          "isList": false
+          "value": "$type",
+          "isList": true
         },
         {
           "id": "fddb7392-d6d0-4570-8170-fd8501c029fb",
@@ -54,7 +54,21 @@
           "required": false,
           "dataType": "@appliance_specs",
           "name": "size",
-          "value": "$size.original",
+          "value": "$size",
+          "isList": false
+        },
+        {
+          "id": "afb33d28-bd73-4ab3-bcc8-dd543aefe4fd",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        },
+        {
+          "id": "8b13c4ba-f736-4603-8dad-fc6822198efd",
+          "dataType": "@sys.number",
+          "name": "quantity",
+          "value": "$quantity",
           "isList": false
         }
       ],
@@ -72,7 +86,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526668053,
+  "lastUpdate": 1526926940,
   "fallbackIntent": false,
   "events": []
 }
