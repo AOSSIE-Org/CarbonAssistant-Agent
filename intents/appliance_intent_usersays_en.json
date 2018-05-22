@@ -1,6 +1,138 @@
 [
   {
-    "id": "508185d7-7801-4380-bfee-dc93e75e8dd4",
+    "id": "29ae0dfd-ea5f-4a9b-a64e-50a6a45ce7ae",
+    "data": [
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions for ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioners",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "6 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "2e0f3c38-c4f5-4223-b60a-b20f9ff54d7c",
+    "data": [
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CFL",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lighting",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "10 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " of usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "354bbc42-319a-49b6-9bb2-1a5369be8631",
     "data": [
       {
         "text": "what are ",
@@ -48,8 +180,8 @@
       },
       {
         "text": "2 hours",
-        "alias": "time",
-        "meta": "@sys.time",
+        "alias": "duration",
+        "meta": "@sys.duration",
         "userDefined": false
       },
       {
@@ -59,10 +191,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526926940
+    "updated": 1526928976
   },
   {
-    "id": "f7435812-5a25-4690-99e5-4956113ac005",
+    "id": "3b90b0c2-bbdf-4d9e-8f13-7dffd305b031",
     "data": [
       {
         "text": "emissions for a ",
@@ -107,10 +239,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "828c2950-7c2f-4d71-b1fa-0f632a68f356",
+    "id": "d3b37e72-379e-439e-b0a8-600a5201b9f3",
     "data": [
       {
         "text": "emissions for a ",
@@ -145,10 +277,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "ca0da270-755b-4b4d-8393-5d3818b59fe0",
+    "id": "3f4ba246-0f51-4971-af80-17b5dba64e50",
     "data": [
       {
         "text": "When two ",
@@ -207,10 +339,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "1ff738ff-2a43-4fd1-9a3c-8f628855d35c",
+    "id": "1ac39712-21f4-4793-ac51-4667d6636304",
     "data": [
       {
         "text": "what are emissions for ",
@@ -245,10 +377,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "8a032287-35ee-453e-b921-7ae70190cebe",
+    "id": "59e9071f-940c-4180-95bb-8c4cd0bdc41d",
     "data": [
       {
         "text": "tell me the amount of ",
@@ -293,10 +425,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "7d40383e-abcd-4e74-8d35-bae94a02f2cc",
+    "id": "4d9c2941-5452-46bc-a57e-e81f2e224ac8",
     "data": [
       {
         "text": "please tell me ",
@@ -341,10 +473,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "9db7a70e-8075-4a41-9b3b-f2c82ee73436",
+    "id": "f2d2f853-c0ac-4307-b8a5-a5b7a163b656",
     "data": [
       {
         "text": "what are different emissions for a ",
@@ -379,10 +511,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "2198041d-a216-4ec6-bced-1656b2a106c2",
+    "id": "3bc3d8d5-51d6-4204-b7a3-eeed37ed3e1c",
     "data": [
       {
         "text": "what is ",
@@ -417,10 +549,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "cb4f0ab2-c83a-4d41-9de1-f85257208fde",
+    "id": "25c8aaf5-fe2d-47c6-a372-99272b839512",
     "data": [
       {
         "text": "what are emmisions for a ",
@@ -455,10 +587,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   },
   {
-    "id": "c3f0da4d-5620-4b61-988e-35d2a58ca419",
+    "id": "905b668a-d0af-4213-9a55-3fd6d254324c",
     "data": [
       {
         "text": "How much ",
@@ -503,6 +635,6 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1526668053
+    "updated": 1526928976
   }
 ]

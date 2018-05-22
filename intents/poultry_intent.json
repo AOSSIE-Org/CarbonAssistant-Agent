@@ -1,0 +1,57 @@
+{
+  "id": "cdfbbcc3-0b4a-4a4f-bfda-6691016384a9",
+  "name": "poultry_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31c7f033-2b97-4202-8025-5aa74d8b11ac",
+          "dataType": "@poultry_list",
+          "name": "poultry_type",
+          "value": "$poultry_type.original",
+          "isList": false
+        },
+        {
+          "id": "ad8f7310-242a-46d3-aed6-de5eaaf23798",
+          "dataType": "@poultry_regions",
+          "name": "poultry_region",
+          "value": "$poultry_region.original",
+          "isList": false
+        },
+        {
+          "id": "e9d7ceba-c3f3-4c55-a1d6-ffb94fa70ed0",
+          "dataType": "@emission_type",
+          "name": "emission_type",
+          "value": "$emission_type",
+          "isList": false
+        },
+        {
+          "id": "7a80f8b0-8da8-4a6a-b8b7-1521d1268d6d",
+          "dataType": "@sys.number",
+          "name": "quantity",
+          "value": "$quantity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527012817,
+  "fallbackIntent": false,
+  "events": []
+}
