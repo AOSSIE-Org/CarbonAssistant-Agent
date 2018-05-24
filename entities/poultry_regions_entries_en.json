@@ -6,9 +6,9 @@
     ]
   },
   {
-    "value": "nebraska",
+    "value": "pennsylvania",
     "synonyms": [
-      "nebraska"
+      "pennsylvania"
     ]
   },
   {
@@ -18,33 +18,33 @@
     ]
   },
   {
-    "value": "michigan",
-    "synonyms": [
-      "michigan"
-    ]
-  },
-  {
     "value": "lowa",
     "synonyms": [
       "lowa"
     ]
   },
   {
-    "value": "british columbia",
+    "value": "nebraska",
     "synonyms": [
-      "british columbia"
+      "nebraska"
     ]
   },
   {
-    "value": "pennsylvania",
+    "value": "michigan",
     "synonyms": [
-      "pennsylvania"
+      "michigan"
     ]
   },
   {
     "value": "new jersey",
     "synonyms": [
       "new jersey"
+    ]
+  },
+  {
+    "value": "british columbia",
+    "synonyms": [
+      "british columbia"
     ]
   }
 ]
