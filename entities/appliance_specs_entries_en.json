@@ -1,5 +1,13 @@
 [
   {
+    "value": "size",
+    "synonyms": [
+      "small",
+      "medium",
+      "large"
+    ]
+  },
+  {
     "value": "type",
     "synonyms": [
       "ducted",
@@ -40,14 +48,6 @@
       "queen",
       "instantaneous",
       "quick recovery"
-    ]
-  },
-  {
-    "value": "size",
-    "synonyms": [
-      "small",
-      "medium",
-      "large"
     ]
   },
   {
