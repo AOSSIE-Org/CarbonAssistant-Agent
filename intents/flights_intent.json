@@ -1,0 +1,44 @@
+{
+  "id": "cc374ebe-35eb-497c-a5b8-364ffa9f18ac",
+  "name": "flights_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.flight_details",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fdfdfd48-b5a5-4439-9041-759def621297",
+          "dataType": "@flight_airports",
+          "name": "origin",
+          "value": "$origin",
+          "isList": false
+        },
+        {
+          "id": "be426acf-7d08-4a73-9705-d5d75936c2bb",
+          "dataType": "@flight_airports",
+          "name": "destination",
+          "value": "$destination",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527360059,
+  "fallbackIntent": false,
+  "events": []
+}
