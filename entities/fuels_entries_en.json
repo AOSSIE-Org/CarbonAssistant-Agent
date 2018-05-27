@@ -20,19 +20,22 @@
   {
     "value": "fuelE10",
     "synonyms": [
-      "E10"
+      "E10",
+      "E 10"
     ]
   },
   {
     "value": "fuelE25",
     "synonyms": [
-      "E25"
+      "E25",
+      "E 25"
     ]
   },
   {
     "value": "fuelE85",
     "synonyms": [
-      "E85"
+      "E85",
+      "E 85"
     ]
   },
   {
