@@ -1,0 +1,62 @@
+{
+  "id": "d55c99f4-8735-4eb7-9cc4-93af00d51afe",
+  "name": "fuels_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.fuel_details",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a0fc1832-f1b2-4515-8646-40036b2c4d47",
+          "required": false,
+          "dataType": "@emission_type",
+          "name": "emission_type",
+          "value": "$emission_type",
+          "isList": false
+        },
+        {
+          "id": "dd98e764-8f79-4682-b899-0144fc866652",
+          "required": false,
+          "dataType": "@fuels",
+          "name": "fuel_type",
+          "value": "$fuel_type",
+          "isList": false
+        },
+        {
+          "id": "b479c00e-a4c2-4036-ba39-3388482878d8",
+          "required": false,
+          "dataType": "",
+          "name": "fuel_original",
+          "value": "$fuel_type.original",
+          "isList": false
+        },
+        {
+          "id": "1127ecac-7794-42e2-b8e5-a8da1d8e02b1",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "quantity",
+          "value": "$quantity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527423032,
+  "fallbackIntent": false,
+  "events": []
+}

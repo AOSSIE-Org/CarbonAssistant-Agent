@@ -1,0 +1,54 @@
+{
+  "id": "e4b2b785-bf25-43fa-81c5-2cac26030241",
+  "name": "electricity_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.electricity_details",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "055c8d03-1096-45ba-94cf-dd1305e9c268",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "quantity",
+          "value": "$quantity",
+          "isList": false
+        },
+        {
+          "id": "1cb81752-dc25-4faa-b66f-f27e8f41ccb9",
+          "required": false,
+          "dataType": "@emission_type",
+          "name": "emission_type",
+          "value": "$emission_type",
+          "isList": false
+        },
+        {
+          "id": "10490cca-3a94-44ee-8b17-e737da7108f6",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo_country",
+          "value": "$geo_country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527189144,
+  "fallbackIntent": false,
+  "events": []
+}

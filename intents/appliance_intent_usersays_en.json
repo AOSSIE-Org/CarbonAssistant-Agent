@@ -1,0 +1,640 @@
+[
+  {
+    "id": "5b77127b-0f09-480d-a025-3d303e90e5ef",
+    "data": [
+      {
+        "text": "emissions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CFL",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lighting",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "70912af2-751e-4196-8668-2afc0f6adf2f",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "Methane",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "fixed",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air cooler",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "0d2aa282-10ea-4d1c-920e-527af477ebbd",
+    "data": [
+      {
+        "text": "emissions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "hair",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "curler",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "3c5597b9-7507-44ca-91f7-3974257668d4",
+    "data": [
+      {
+        "text": "what are different emissions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "04eba923-1444-45d8-a97c-7bacef36e43a",
+    "data": [
+      {
+        "text": "what are emissions for ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CFL",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lighting",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "db4be7a2-8355-4665-977d-3aa4b9d75ae3",
+    "data": [
+      {
+        "text": "How much ",
+        "userDefined": false
+      },
+      {
+        "text": "methane",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " is emitted when a ",
+        "userDefined": false
+      },
+      {
+        "text": "fixed",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air cooler",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " is used in ",
+        "userDefined": false
+      },
+      {
+        "text": "Pakistan",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "c5f652d0-7840-4a64-b77b-96b07c63acfb",
+    "data": [
+      {
+        "text": "what are emmisions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioner",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "10c57b12-c7e9-4790-a201-0a43ed6c9cbc",
+    "data": [
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions for a ",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CFL",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lighting",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "10 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " of usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "e28d6b05-f913-40e4-9b76-631feceb5454",
+    "data": [
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions for ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air conditioners",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "6 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "1a7bcf13-ab7e-4c3c-b163-cbdd11d9d065",
+    "data": [
+      {
+        "text": "When two ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air coolers",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " are used for ",
+        "userDefined": false
+      },
+      {
+        "text": "3 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "India",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ", how much ",
+        "userDefined": false
+      },
+      {
+        "text": "N2O",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " is emitted?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "afe4739a-9da7-4663-9f95-8cf2fa48b0a4",
+    "data": [
+      {
+        "text": "tell me the amount of ",
+        "userDefined": false
+      },
+      {
+        "text": "Methane",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emitted when a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "air cooler",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " is used for ",
+        "userDefined": false
+      },
+      {
+        "text": "2 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "8f327030-725c-4c2b-a496-726e3b019b90",
+    "data": [
+      {
+        "text": "please tell me ",
+        "userDefined": false
+      },
+      {
+        "text": "Co2",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emission for an ",
+        "userDefined": false
+      },
+      {
+        "text": "exhaust",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fan",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Germany",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  },
+  {
+    "id": "e9552de5-1808-41f5-9ea8-fb63ef57cf74",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions for ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CFL",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " lightings for ",
+        "userDefined": false
+      },
+      {
+        "text": "2 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " of usage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526928976
+  }
+]
