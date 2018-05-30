@@ -1,0 +1,146 @@
+[
+  {
+    "id": "8cd8464c-aaf9-417a-bd93-35a49148437d",
+    "data": [
+      {
+        "text": "how much emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " produced if I travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "Satara",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527705227
+  },
+  {
+    "id": "4c7637a6-5241-47b7-a98a-6dfc7861ffee",
+    "data": [
+      {
+        "text": "emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travel between ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and  ",
+        "userDefined": false
+      },
+      {
+        "text": "Kuala lumpur",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527705227
+  },
+  {
+    "id": "fbc0e53a-68e4-43ef-9835-9bf33783b0b2",
+    "data": [
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sangli",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527705227
+  }
+]
