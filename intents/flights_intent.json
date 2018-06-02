@@ -35,13 +35,17 @@
         },
         {
           "id": "75f1c006-8168-49c0-ab7a-e8eba609aef9",
+          "required": false,
           "name": "origin_original",
-          "value": "$origin.original"
+          "value": "$origin.original",
+          "isList": false
         },
         {
           "id": "8c14e580-2a08-4fa8-81ee-bf9853eb7385",
+          "required": false,
           "name": "destination_original",
-          "value": "$destination.original"
+          "value": "$destination.original",
+          "isList": false
         }
       ],
       "messages": [
@@ -58,7 +62,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1527793528,
+  "lastUpdate": 1527858601,
   "fallbackIntent": false,
   "events": []
 }

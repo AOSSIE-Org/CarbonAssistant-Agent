@@ -1,6 +1,57 @@
 [
   {
-    "id": "f7a6eb28-2bdf-42bd-bf19-6f902105adbf",
+    "id": "6fc702eb-e9bd-435d-b0d5-72f1bdaef719",
+    "data": [
+      {
+        "text": "carbon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "origin",
+        "meta": "@flight_airports",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "alias": "destination",
+        "meta": "@flight_airports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527858601
+  },
+  {
+    "id": "2ce941cd-a2a1-48cb-93b6-5b90dcae9ce9",
     "data": [
       {
         "text": "emissions ",
@@ -60,7 +111,7 @@
     "updated": 1527793528
   },
   {
-    "id": "2e592fbb-da21-4396-861a-da60ab93a6f6",
+    "id": "9411940a-32b3-4818-9ba2-496165e0df9b",
     "data": [
       {
         "text": "emissions ",
