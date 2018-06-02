@@ -11,6 +11,7 @@
       "parameters": [
         {
           "id": "68aa29e1-5966-479b-84cf-2a8e403d2bb2",
+          "required": false,
           "dataType": "@emission_type",
           "name": "emission_type",
           "value": "$emission_type",
@@ -18,6 +19,7 @@
         },
         {
           "id": "2d020c2a-3b6f-4805-a402-60446ce1e132",
+          "required": false,
           "dataType": "@sys.geo-city",
           "name": "destination",
           "value": "$destination",
@@ -25,9 +27,27 @@
         },
         {
           "id": "051d199f-33b3-431d-9a97-da3a808dc48b",
+          "required": false,
           "dataType": "@sys.geo-city",
           "name": "origin",
-          "value": "$origin"
+          "value": "$origin",
+          "isList": false
+        },
+        {
+          "id": "f808f58f-d193-49a4-a5b0-6d6a2f310da6",
+          "required": false,
+          "dataType": "@fuels",
+          "name": "fuel_type",
+          "value": "$fuel_type",
+          "isList": false
+        },
+        {
+          "id": "5fdf4ed7-ca35-495c-909f-a17878d67c6a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "mileage",
+          "value": "$mileage",
+          "isList": false
         }
       ],
       "messages": [
@@ -42,9 +62,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1527705227,
+  "lastUpdate": 1527950983,
   "fallbackIntent": false,
   "events": []
 }
