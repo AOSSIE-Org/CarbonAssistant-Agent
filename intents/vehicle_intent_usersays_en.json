@@ -1,0 +1,546 @@
+[
+  {
+    "id": "ba3bc103-dcf7-4601-959d-c38cdf10c8c6",
+    "data": [
+      {
+        "text": "How much emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " released ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "mileage",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " km ",
+        "userDefined": false
+      },
+      {
+        "text": "per",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " litre ",
+        "userDefined": false
+      },
+      {
+        "text": "diesel",
+        "alias": "fuel_type",
+        "meta": "@fuels",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " used from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "New Delhi",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527950983
+  },
+  {
+    "id": "08c809e8-e145-4e22-a565-27d4036b4946",
+    "data": [
+      {
+        "text": "emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a road trip from ",
+        "userDefined": false
+      },
+      {
+        "text": "new york",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "seattle",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " on a ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "mileage",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "km ",
+        "userDefined": false
+      },
+      {
+        "text": "per",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " litre mileage ",
+        "userDefined": false
+      },
+      {
+        "text": "petrol",
+        "alias": "fuel_type",
+        "meta": "@fuels",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527950983
+  },
+  {
+    "id": "5558eba4-dff9-496e-af90-6822dae1d1a1",
+    "data": [
+      {
+        "text": "emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " a road trip from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " on a ",
+        "userDefined": false
+      },
+      {
+        "text": "petrol",
+        "alias": "fuel_type",
+        "meta": "@fuels",
+        "userDefined": false
+      },
+      {
+        "text": " vehicle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527950983
+  },
+  {
+    "id": "a6243c6f-6f8d-48b4-b134-23f9b3b54a95",
+    "data": [
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions if I travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "Boston",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " in a ",
+        "userDefined": false
+      },
+      {
+        "text": "diesel",
+        "alias": "fuel_type",
+        "meta": "@fuels",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " with mileage of ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "mileage",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " km ",
+        "userDefined": false
+      },
+      {
+        "text": "per",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " litre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527950983
+  },
+  {
+    "id": "aea2c604-b054-4eb6-a749-a1847f2e3f76",
+    "data": [
+      {
+        "text": "emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sangli",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " in a ",
+        "userDefined": false
+      },
+      {
+        "text": "diesel",
+        "alias": "fuel_type",
+        "meta": "@fuels",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527950983
+  },
+  {
+    "id": "20310b49-cdbe-49ab-b6c4-d14149906c7d",
+    "data": [
+      {
+        "text": "how much emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " produced if I travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "Satara",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " by ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527950983
+  },
+  {
+    "id": "6d842659-9b33-4953-a8de-6b34f8092e3e",
+    "data": [
+      {
+        "text": "emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travel between ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " and  ",
+        "userDefined": false
+      },
+      {
+        "text": "Kuala lumpur",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527950983
+  },
+  {
+    "id": "9763eb4b-88db-45fb-b752-fc68a6836e5d",
+    "data": [
+      {
+        "text": "carbon",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Sangli",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527950983
+  }
+]
