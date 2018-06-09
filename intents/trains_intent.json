@@ -1,0 +1,53 @@
+{
+  "id": "b2cc1c8a-0167-45fa-9c5d-dd3de79fcf10",
+  "name": "trains_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.train_details",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a9c6526d-7a73-4e0e-9400-17f62d0fb3cc",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "origin",
+          "value": "$origin",
+          "isList": false
+        },
+        {
+          "id": "1384b669-db84-4ccd-b6cc-046bc0f5ea09",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "destination",
+          "value": "$destination",
+          "isList": false
+        },
+        {
+          "id": "60dafeed-1dbd-40c7-9e2d-4df5c9a5e71c",
+          "dataType": "@sys.number",
+          "name": "passengers",
+          "value": "$passengers",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528560217,
+  "fallbackIntent": false,
+  "events": []
+}

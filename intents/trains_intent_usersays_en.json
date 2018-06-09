@@ -1,0 +1,241 @@
+[
+  {
+    "id": "cf622aca-aa49-4a55-81fa-dd055bb8d0d0",
+    "data": [
+      {
+        "text": "carbon",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " train journey from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "1233",
+        "alias": "passengers",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " passenger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528560217
+  },
+  {
+    "id": "bc469e22-d43b-414e-97b3-a9e9122861da",
+    "data": [
+      {
+        "text": "how much emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " produced ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " train journey from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "2314",
+        "alias": "passengers",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " passengers onboard?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528560217
+  },
+  {
+    "id": "706dc442-e4cb-45d4-b201-8e7623cc0466",
+    "data": [
+      {
+        "text": "emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "due",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " travel from ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Bangalore",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " by train",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528560217
+  },
+  {
+    "id": "c7a99159-bcf7-4214-8082-6f35e1fa080e",
+    "data": [
+      {
+        "text": "emissions ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " train journey from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Kolkata",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528560217
+  }
+]
