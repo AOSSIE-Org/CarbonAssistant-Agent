@@ -33,4 +33,4 @@ The deployment of the Google Assistant Action is done in two parts: Deployment o
 
 License
 ----
-Apache License 2.0
+See [LICENSE](LICENSE).
