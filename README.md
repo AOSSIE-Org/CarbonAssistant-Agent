@@ -23,6 +23,7 @@ The deployment of the Google Assistant Action is done in two parts: Deployment o
 - You will redirected to DialogFlow's project page. On this screen - select your timezone - don't change the language. Then select 'Create' and wait for the process to complete.
 - Once done, select the Settings gear icon at the top left and then go to Export and Import tab.
 - On this screen, select 'Restore from Zip' and restore the zip you downloaded!
+- Go to the 'Fulfillment' tab and you will see a field 'Webhook', you have to enter your own https endpoint. You can create your webhook by following [Part 2](https://gitlab.com/aossie/CarbonAssistant-Function) of the deployment.
 - That's it, you are almost there! Next select the 'Integrations' tab and then under Google Assistant section click on 'Integration Settings' and click on Test! You are done!
 - Now, the Google assistant action has been deployed only for your Gmail account. You can fire up your Google Assistant app and test it!
 
