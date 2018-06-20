@@ -1,0 +1,48 @@
+{
+  "id": "c2eda34a-7219-4b79-9890-1dac8d7adb13",
+  "name": "exit_event",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "items": [
+            {
+              "textToSpeech": "Alright! See you later. Have a nice day"
+            },
+            {
+              "textToSpeech": "Ok! Let\u0027s do this again later sometime :)"
+            },
+            {
+              "textToSpeech": "Ok bye! :)"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529491310,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_CANCEL"
+    }
+  ]
+}
