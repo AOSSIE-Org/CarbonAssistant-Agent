@@ -26,10 +26,14 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
+  "lastUpdate": 1529318675,
   "fallbackIntent": false,
   "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    },
     {
       "name": "WELCOME"
     }
