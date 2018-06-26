@@ -1,6 +1,6 @@
 [
   {
-    "id": "8dfbf062-2a2c-4417-afb3-f42969a4eef0",
+    "id": "4d68d3e5-4206-4c71-972b-a973ac4caddb",
     "data": [
       {
         "text": "emissions for ",
@@ -22,7 +22,7 @@
     "updated": 1527016896
   },
   {
-    "id": "c8488a72-91c7-4c68-a3a8-5beeafa06113",
+    "id": "4f3db4ad-5f9a-4329-8956-b75e74a5d72f",
     "data": [
       {
         "text": "carbon",
@@ -34,13 +34,13 @@
         "userDefined": false
       },
       {
-        "text": "22 kg",
+        "text": "22",
         "alias": "poultry_quantity",
         "meta": "@sys.number",
         "userDefined": false
       },
       {
-        "text": " ",
+        "text": " kg ",
         "userDefined": false
       },
       {
@@ -56,23 +56,23 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1527016896
+    "updated": 1528640473
   },
   {
-    "id": "fe00322d-0c9e-4ec4-bf5d-31798240264b",
+    "id": "1f8ea94e-fb38-41fa-8cb6-1014361f191d",
     "data": [
       {
         "text": "emissions for ",
         "userDefined": false
       },
       {
-        "text": "10kg",
+        "text": "10",
         "alias": "poultry_quantity",
         "meta": "@sys.number",
         "userDefined": false
       },
       {
-        "text": " ",
+        "text": " kg ",
         "userDefined": false
       },
       {
@@ -88,10 +88,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1527016896
+    "updated": 1528640473
   },
   {
-    "id": "472b9efb-0953-4bf0-b86f-52cda23fbf73",
+    "id": "b2f657c4-11b3-4c6f-a812-1174dd61f5fc",
     "data": [
       {
         "text": "emissions for ",
@@ -119,7 +119,7 @@
     "updated": 1527016896
   },
   {
-    "id": "6f8c488f-7971-4e8b-a555-42d35ac0f1ad",
+    "id": "2f28b3e7-d558-43bc-b3a6-507fb1c78143",
     "data": [
       {
         "text": "emissions by production of ",
@@ -151,7 +151,7 @@
     "updated": 1527016896
   },
   {
-    "id": "7de0deea-3f67-4370-8f90-9df776666ab4",
+    "id": "e041a75a-4fd5-444e-9016-2a56a5b612e2",
     "data": [
       {
         "text": "how much emissions are caused by ",
@@ -164,7 +164,7 @@
         "userDefined": false
       },
       {
-        "text": "kg of ",
+        "text": " kg of ",
         "userDefined": false
       },
       {
@@ -186,10 +186,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1527016896
+    "updated": 1528640473
   },
   {
-    "id": "9e6f0c6e-ee8b-4024-bff8-c2f7e795e5e6",
+    "id": "7625262b-e301-47af-b94b-11e34da885b3",
     "data": [
       {
         "text": "carbon",
@@ -232,7 +232,7 @@
     "updated": 1527016896
   },
   {
-    "id": "6cf61ac8-86e4-4f71-94fe-7a85382a317a",
+    "id": "67906e6a-9a29-4b3d-9343-766a4dfbafdf",
     "data": [
       {
         "text": "carbon",
