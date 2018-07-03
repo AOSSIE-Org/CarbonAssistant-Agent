@@ -7,7 +7,13 @@
     {
       "resetContexts": false,
       "action": "input.appliance_details",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "appliance_intent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "81884926-4306-41dc-b212-eb66c7fb6b6f",
@@ -15,7 +21,7 @@
           "dataType": "@appliance_specs",
           "name": "type",
           "value": "$type.original",
-          "isList": true
+          "isList": false
         },
         {
           "id": "fddb7392-d6d0-4570-8170-fd8501c029fb",
@@ -80,7 +86,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1526928976,
+  "lastUpdate": 1529578763,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,283 @@
+[
+  {
+    "id": "6bb2fab3-6ef2-4317-a920-ec649b0db5c3",
+    "data": [
+      {
+        "text": "and",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " how about ",
+        "userDefined": false
+      },
+      {
+        "text": "4 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529579146
+  },
+  {
+    "id": "506f1fde-6e23-41d3-b304-16781edc5d0c",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "ff9bf42e-e3c0-42ca-97f6-6ff6b585e033",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " size is ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "appliance_specs",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529577338
+  },
+  {
+    "id": "df0780a6-fddf-4564-9cb3-349a55d27ece",
+    "data": [
+      {
+        "text": "What if I use ",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of them ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "12 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1529577338
+  },
+  {
+    "id": "50db914f-3671-4478-92a2-a2e5f9cfa69f",
+    "data": [
+      {
+        "text": "what if I use ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "c8cf7abc-8e6a-4230-a247-b40ef6eaf861",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "3 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "56621381-035b-4245-a404-f544fab09eb0",
+    "data": [
+      {
+        "text": "are there more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "26068661-5ec4-4fa6-ac3b-a3a99aba04dc",
+    "data": [
+      {
+        "text": "what else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "8685086d-b1bb-4bc9-b1e4-c4436bf41ef8",
+    "data": [
+      {
+        "text": "show me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "2a2aad08-81f9-4586-b80d-34d8a2d5d884",
+    "data": [
+      {
+        "text": "more information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "834e4b42-392b-4ba2-829f-e985ae293251",
+    "data": [
+      {
+        "text": "other results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "b92727d2-6c7c-4a1f-9f7d-017f03b64ed2",
+    "data": [
+      {
+        "text": "tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "0fbe20e2-dc45-4d27-ba5f-90cfc0bc6473",
+    "data": [
+      {
+        "text": "more results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "7b97d73a-9a7a-4af6-9636-eedacd1220b6",
+    "data": [
+      {
+        "text": "more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  },
+  {
+    "id": "f56819f2-a554-4805-8e95-4d4ecba7c2c7",
+    "data": [
+      {
+        "text": "anything else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1529577338
+  }
+]

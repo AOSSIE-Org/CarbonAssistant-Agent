@@ -1,0 +1,72 @@
+{
+  "id": "d11828a2-9e11-415d-8327-a23c7d4c6a43",
+  "parentId": "94e4bac5-df71-4581-bc70-08eb5fd933b5",
+  "rootParentId": "94e4bac5-df71-4581-bc70-08eb5fd933b5",
+  "name": "appliance_intent - followup",
+  "auto": true,
+  "contexts": [
+    "appliance_intent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "appliance_intent.appliance_intent-more",
+      "affectedContexts": [
+        {
+          "name": "appliance_intent-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "ae2b71f1-7f29-47ba-87e5-a273330716e6",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        },
+        {
+          "id": "89f63b04-b31f-4c2b-9e51-0707fe0e7c9a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "9c23a3fd-2f18-49e1-a1ee-fb289b6450b0",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        },
+        {
+          "id": "d6ac7018-3c81-4e03-be44-f2817e8e3f7f",
+          "required": false,
+          "dataType": "@appliance_specs",
+          "name": "appliance_specs",
+          "value": "$appliance_specs",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1529579146,
+  "fallbackIntent": false,
+  "events": []
+}
