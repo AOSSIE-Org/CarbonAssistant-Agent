@@ -401,5 +401,11 @@
       "Dishwasher",
       "Dish washer"
     ]
+  },
+  {
+    "value": "hair",
+    "synonyms": [
+      "hair"
+    ]
   }
 ]

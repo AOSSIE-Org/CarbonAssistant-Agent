@@ -20,6 +20,34 @@
       ],
       "parameters": [
         {
+          "id": "7f76344f-5504-4e43-ac9b-3209ac7edb45",
+          "dataType": "@appliance_specs",
+          "name": "type",
+          "value": "$type.original"
+        },
+        {
+          "id": "a7ee5688-819b-4be2-89a4-eec196642931",
+          "dataType": "@appliances",
+          "name": "appliance",
+          "value": "$appliance",
+          "isList": false
+        },
+        {
+          "id": "9c23a3fd-2f18-49e1-a1ee-fb289b6450b0",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo_country",
+          "value": "$geo_country",
+          "isList": false
+        },
+        {
+          "id": "7908962f-268f-46e2-99c1-9702202557de",
+          "dataType": "@emission_type",
+          "name": "emission_type",
+          "value": "$emission_type",
+          "isList": false
+        },
+        {
           "id": "ae2b71f1-7f29-47ba-87e5-a273330716e6",
           "required": false,
           "dataType": "@sys.duration",
@@ -28,28 +56,18 @@
           "isList": false
         },
         {
-          "id": "89f63b04-b31f-4c2b-9e51-0707fe0e7c9a",
-          "required": false,
-          "dataType": "@sys.number",
-          "name": "number",
-          "value": "$number",
-          "isList": false
-        },
-        {
-          "id": "9c23a3fd-2f18-49e1-a1ee-fb289b6450b0",
-          "required": false,
-          "dataType": "@sys.geo-country",
-          "name": "geo-country",
-          "value": "$geo-country",
-          "isList": false
-        },
-        {
           "id": "d6ac7018-3c81-4e03-be44-f2817e8e3f7f",
           "required": false,
           "dataType": "@appliance_specs",
-          "name": "appliance_specs",
-          "value": "$appliance_specs",
+          "name": "size",
+          "value": "$size.original",
           "isList": false
+        },
+        {
+          "id": "b673e1fe-abc0-48d0-ab27-52de1a8d2527",
+          "dataType": "@sys.number",
+          "name": "quantity",
+          "value": "$quantity"
         }
       ],
       "messages": [
@@ -64,9 +82,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": false,
+  "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1529579146,
+  "lastUpdate": 1530701917,
   "fallbackIntent": false,
   "events": []
 }
