@@ -1,22 +1,26 @@
 {
-  "id": "b2cc1c8a-0167-45fa-9c5d-dd3de79fcf10",
-  "name": "trains_intent",
+  "id": "a92a9e38-110f-400b-838c-ab61590054d5",
+  "parentId": "b2cc1c8a-0167-45fa-9c5d-dd3de79fcf10",
+  "rootParentId": "b2cc1c8a-0167-45fa-9c5d-dd3de79fcf10",
+  "name": "trains_intent - followup",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "trains_intent-followup"
+  ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.train_details",
+      "action": "trains_intent.trains_intent-more",
       "affectedContexts": [
         {
           "name": "trains_intent-followup",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 5
         }
       ],
       "parameters": [
         {
-          "id": "a9c6526d-7a73-4e0e-9400-17f62d0fb3cc",
+          "id": "37c79d69-53bf-4fa4-8f31-5049d1d9b72d",
           "required": false,
           "dataType": "@sys.geo-city",
           "name": "origin",
@@ -24,7 +28,7 @@
           "isList": false
         },
         {
-          "id": "1384b669-db84-4ccd-b6cc-046bc0f5ea09",
+          "id": "f5993c10-8824-4258-bfa9-010ab3cff3b4",
           "required": false,
           "dataType": "@sys.geo-city",
           "name": "destination",
@@ -32,7 +36,8 @@
           "isList": false
         },
         {
-          "id": "60dafeed-1dbd-40c7-9e2d-4df5c9a5e71c",
+          "id": "651b8ced-39de-4ec5-9162-4b7426461878",
+          "required": false,
           "dataType": "@sys.number",
           "name": "passengers",
           "value": "$passengers",
@@ -53,7 +58,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1528560217,
+  "lastUpdate": 1531040057,
   "fallbackIntent": false,
   "events": []
 }
