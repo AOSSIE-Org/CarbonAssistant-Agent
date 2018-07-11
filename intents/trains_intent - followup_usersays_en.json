@@ -1,0 +1,203 @@
+[
+  {
+    "id": "a644ed41-2092-4b89-b366-bc3378d3dcf1",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " destination is ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "fc576ef7-be3e-4a07-9c78-ebf020d18abf",
+    "data": [
+      {
+        "text": "what if number of passengers is ",
+        "userDefined": false
+      },
+      {
+        "text": "322",
+        "alias": "passengers",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "5183ad34-a9a4-4739-9519-44cb5d206e47",
+    "data": [
+      {
+        "text": "what if I\u0027m going to ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "c3c2d194-6612-40d6-8454-61dcc793e99a",
+    "data": [
+      {
+        "text": "what if source is ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "59b3bb42-b5a6-4bd9-a05b-2443e6ea567f",
+    "data": [
+      {
+        "text": "are there more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "5314e554-9c5e-4420-a37b-42e3eb9f1e79",
+    "data": [
+      {
+        "text": "what else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "6da06abc-f0f0-400b-85d6-c25a7b3f43a6",
+    "data": [
+      {
+        "text": "show me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "6c62a9a7-3613-4485-9bf2-669fde67df28",
+    "data": [
+      {
+        "text": "more information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "39e08cf1-4e08-4239-b4c8-1e40cf8e7270",
+    "data": [
+      {
+        "text": "other results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "527a2b2e-6413-4632-9ce0-24d6c610bf32",
+    "data": [
+      {
+        "text": "tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "741af4fe-5527-40b7-b6a5-4b0d68bc6ef1",
+    "data": [
+      {
+        "text": "more results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "00f9601a-8eeb-40fe-bac2-0be91e8b61fd",
+    "data": [
+      {
+        "text": "more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  },
+  {
+    "id": "e1ba955b-a50a-4d9c-aaff-3ebf977731b1",
+    "data": [
+      {
+        "text": "anything else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531040057
+  }
+]

@@ -1,57 +1,53 @@
 {
-  "id": "cc374ebe-35eb-497c-a5b8-364ffa9f18ac",
-  "name": "flights_intent",
+  "id": "8a1bf0fb-d51b-4690-88cd-d65cae7a9344",
+  "parentId": "cc374ebe-35eb-497c-a5b8-364ffa9f18ac",
+  "rootParentId": "cc374ebe-35eb-497c-a5b8-364ffa9f18ac",
+  "name": "flights_intent - followup",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "flights_intent-followup"
+  ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.flight_details",
+      "action": "flights_intent.flights_intent-more",
       "affectedContexts": [
         {
           "name": "flights_intent-followup",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 5
         }
       ],
       "parameters": [
         {
-          "id": "fdfdfd48-b5a5-4439-9041-759def621297",
-          "required": false,
+          "id": "e11296b7-6750-4507-8b7c-fef81ad12284",
           "dataType": "@flight_airports",
           "name": "origin",
           "value": "$origin",
           "isList": false
         },
         {
-          "id": "be426acf-7d08-4a73-9705-d5d75936c2bb",
-          "required": false,
-          "dataType": "@flight_airports",
-          "name": "destination",
-          "value": "$destination",
-          "isList": false
-        },
-        {
-          "id": "46ac2cc6-9e23-4b28-8db4-8baf8e480be5",
-          "required": false,
+          "id": "b0f89a7f-57b7-460a-b9bb-65de5df42d3a",
           "dataType": "@sys.number",
           "name": "passengers",
           "value": "$passengers",
           "isList": false
         },
         {
-          "id": "75f1c006-8168-49c0-ab7a-e8eba609aef9",
-          "required": false,
-          "name": "origin_original",
-          "value": "$origin.original",
-          "isList": false
+          "id": "927107c5-e97e-4d85-b9b9-738001efa04a",
+          "dataType": "@flight_airports",
+          "name": "destination",
+          "value": "$destination"
         },
         {
-          "id": "8c14e580-2a08-4fa8-81ee-bf9853eb7385",
-          "required": false,
+          "id": "0deaea15-b495-4aef-b4d0-e2b514c3e7d3",
+          "name": "origin_original",
+          "value": "$origin.original"
+        },
+        {
+          "id": "30e289d9-035d-4208-abf7-fc49fd79e186",
           "name": "destination_original",
-          "value": "$destination.original",
-          "isList": false
+          "value": "$destination.original"
         }
       ],
       "messages": [
@@ -68,7 +64,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1527858601,
+  "lastUpdate": 1531043307,
   "fallbackIntent": false,
   "events": []
 }

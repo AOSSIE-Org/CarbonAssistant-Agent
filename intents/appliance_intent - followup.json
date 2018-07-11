@@ -1,38 +1,39 @@
 {
-  "id": "94e4bac5-df71-4581-bc70-08eb5fd933b5",
-  "name": "appliance_intent",
+  "id": "d11828a2-9e11-415d-8327-a23c7d4c6a43",
+  "parentId": "94e4bac5-df71-4581-bc70-08eb5fd933b5",
+  "rootParentId": "94e4bac5-df71-4581-bc70-08eb5fd933b5",
+  "name": "appliance_intent - followup",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "appliance_intent-followup"
+  ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.appliance_details",
+      "action": "appliance_intent.appliance_intent-more",
       "affectedContexts": [
         {
           "name": "appliance_intent-followup",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 5
         }
       ],
       "parameters": [
         {
-          "id": "81884926-4306-41dc-b212-eb66c7fb6b6f",
-          "required": false,
+          "id": "7f76344f-5504-4e43-ac9b-3209ac7edb45",
           "dataType": "@appliance_specs",
           "name": "type",
-          "value": "$type.original",
-          "isList": false
+          "value": "$type.original"
         },
         {
-          "id": "fddb7392-d6d0-4570-8170-fd8501c029fb",
-          "required": false,
+          "id": "a7ee5688-819b-4be2-89a4-eec196642931",
           "dataType": "@appliances",
           "name": "appliance",
           "value": "$appliance",
           "isList": false
         },
         {
-          "id": "6f697f04-82de-44ba-a7df-fb12e86724cd",
+          "id": "9c23a3fd-2f18-49e1-a1ee-fb289b6450b0",
           "required": false,
           "dataType": "@sys.geo-country",
           "name": "geo_country",
@@ -40,15 +41,14 @@
           "isList": false
         },
         {
-          "id": "1480acee-ce13-44d4-b325-c64aa77c093c",
-          "required": false,
+          "id": "7908962f-268f-46e2-99c1-9702202557de",
           "dataType": "@emission_type",
           "name": "emission_type",
           "value": "$emission_type",
           "isList": false
         },
         {
-          "id": "8332f586-454f-4b8f-91a2-8512d194ac96",
+          "id": "ae2b71f1-7f29-47ba-87e5-a273330716e6",
           "required": false,
           "dataType": "@sys.duration",
           "name": "duration",
@@ -56,7 +56,7 @@
           "isList": false
         },
         {
-          "id": "5349709d-5245-4799-b372-11ad669c60c1",
+          "id": "d6ac7018-3c81-4e03-be44-f2817e8e3f7f",
           "required": false,
           "dataType": "@appliance_specs",
           "name": "size",
@@ -64,12 +64,10 @@
           "isList": false
         },
         {
-          "id": "79b50504-0ed5-4f18-a1a4-f830e82e2083",
-          "required": false,
+          "id": "b673e1fe-abc0-48d0-ab27-52de1a8d2527",
           "dataType": "@sys.number",
           "name": "quantity",
-          "value": "$quantity",
-          "isList": false
+          "value": "$quantity"
         }
       ],
       "messages": [
@@ -86,7 +84,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530633490,
+  "lastUpdate": 1530701917,
   "fallbackIntent": false,
   "events": []
 }

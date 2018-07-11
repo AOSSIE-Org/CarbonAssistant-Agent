@@ -8,7 +8,9 @@
     "welcomeIntentSignInRequired": true,
     "startIntents": [],
     "systemIntents": [],
-    "endIntentIds": [],
+    "endIntentIds": [
+      "c2eda34a-7219-4b79-9890-1dac8d7adb13"
+    ],
     "oAuthLinking": {
       "required": false,
       "grantType": "AUTH_CODE_GRANT"

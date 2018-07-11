@@ -1,0 +1,358 @@
+[
+  {
+    "id": "880ef5ff-1e43-4fb9-b16e-ab9bd3646fc1",
+    "data": [
+      {
+        "text": "what are it\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "methane",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "98774023-eeab-4d6b-b2bc-742de39c73fa",
+    "data": [
+      {
+        "text": "what if it was a ",
+        "userDefined": false
+      },
+      {
+        "text": "fixed",
+        "alias": "type",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "debf0ec9-83ac-40d2-82df-1bee6e3ba188",
+    "data": [
+      {
+        "text": "what about a ",
+        "userDefined": false
+      },
+      {
+        "text": "Hair dryer",
+        "alias": "appliance",
+        "meta": "@appliances",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "4730ed0e-53ee-4893-a888-2a0a2f91643f",
+    "data": [
+      {
+        "text": "and",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " how about ",
+        "userDefined": false
+      },
+      {
+        "text": "4 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "canada",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "8a236f30-b312-4e9c-9ce8-3e809492f87e",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " of them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "35127347-0571-4918-b620-c6c70b3741ad",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " size is ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "alias": "size",
+        "meta": "@appliance_specs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530701917
+  },
+  {
+    "id": "de3a8968-8ee4-467e-8414-da9c12344efb",
+    "data": [
+      {
+        "text": "What if I use ",
+        "userDefined": false
+      },
+      {
+        "text": "11",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " of them ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "12 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Canada",
+        "alias": "geo_country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530701917
+  },
+  {
+    "id": "65b972e9-e9df-4445-b906-81c2847d05c9",
+    "data": [
+      {
+        "text": "what if I use ",
+        "userDefined": false
+      },
+      {
+        "text": "7",
+        "alias": "quantity",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " of them",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "c33a511e-ad7b-4a1d-9476-f5a062988fb9",
+    "data": [
+      {
+        "text": "what about ",
+        "userDefined": false
+      },
+      {
+        "text": "3 hours",
+        "alias": "duration",
+        "meta": "@sys.duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "a1a0c996-7ce3-4be2-a2c1-5d4c918a064f",
+    "data": [
+      {
+        "text": "are there more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "c6d868c0-158c-4090-8e14-bd918334715c",
+    "data": [
+      {
+        "text": "what else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "2f50b8d1-ca4b-4904-b805-71ccce77ce1a",
+    "data": [
+      {
+        "text": "show me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "d6dd6b10-a2b8-4e22-8b99-e00b7abb1607",
+    "data": [
+      {
+        "text": "more information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "d5be4aff-b570-49ec-a016-759ea56f4beb",
+    "data": [
+      {
+        "text": "other results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "b133736b-40ea-4a20-a9a0-aae1ead4b1fa",
+    "data": [
+      {
+        "text": "tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "0c490dd1-ad3d-400e-93a7-b0930bf71fac",
+    "data": [
+      {
+        "text": "more results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "84245608-2b5f-4059-9420-d74cc3e73c0e",
+    "data": [
+      {
+        "text": "more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  },
+  {
+    "id": "1c015c87-14b7-4525-8a3f-f4a7f41ca7fb",
+    "data": [
+      {
+        "text": "anything else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530701917
+  }
+]

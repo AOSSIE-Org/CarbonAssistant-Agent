@@ -7,7 +7,13 @@
     {
       "resetContexts": false,
       "action": "input.train_details",
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "trains_intent-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "a9c6526d-7a73-4e0e-9400-17f62d0fb3cc",

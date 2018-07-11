@@ -1,56 +1,46 @@
 {
-  "id": "cc374ebe-35eb-497c-a5b8-364ffa9f18ac",
-  "name": "flights_intent",
+  "id": "a92a9e38-110f-400b-838c-ab61590054d5",
+  "parentId": "b2cc1c8a-0167-45fa-9c5d-dd3de79fcf10",
+  "rootParentId": "b2cc1c8a-0167-45fa-9c5d-dd3de79fcf10",
+  "name": "trains_intent - followup",
   "auto": true,
-  "contexts": [],
+  "contexts": [
+    "trains_intent-followup"
+  ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.flight_details",
+      "action": "trains_intent.trains_intent-more",
       "affectedContexts": [
         {
-          "name": "flights_intent-followup",
+          "name": "trains_intent-followup",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 5
         }
       ],
       "parameters": [
         {
-          "id": "fdfdfd48-b5a5-4439-9041-759def621297",
+          "id": "37c79d69-53bf-4fa4-8f31-5049d1d9b72d",
           "required": false,
-          "dataType": "@flight_airports",
+          "dataType": "@sys.geo-city",
           "name": "origin",
           "value": "$origin",
           "isList": false
         },
         {
-          "id": "be426acf-7d08-4a73-9705-d5d75936c2bb",
+          "id": "f5993c10-8824-4258-bfa9-010ab3cff3b4",
           "required": false,
-          "dataType": "@flight_airports",
+          "dataType": "@sys.geo-city",
           "name": "destination",
           "value": "$destination",
           "isList": false
         },
         {
-          "id": "46ac2cc6-9e23-4b28-8db4-8baf8e480be5",
+          "id": "651b8ced-39de-4ec5-9162-4b7426461878",
           "required": false,
           "dataType": "@sys.number",
           "name": "passengers",
           "value": "$passengers",
-          "isList": false
-        },
-        {
-          "id": "75f1c006-8168-49c0-ab7a-e8eba609aef9",
-          "required": false,
-          "name": "origin_original",
-          "value": "$origin.original",
-          "isList": false
-        },
-        {
-          "id": "8c14e580-2a08-4fa8-81ee-bf9853eb7385",
-          "required": false,
-          "name": "destination_original",
-          "value": "$destination.original",
           "isList": false
         }
       ],
@@ -68,7 +58,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1527858601,
+  "lastUpdate": 1531040057,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,285 @@
+[
+  {
+    "id": "766257e4-791e-4724-8c19-14627389e4ae",
+    "data": [
+      {
+        "text": "what about flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "origin",
+        "meta": "@flight_airports",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "alias": "destination",
+        "meta": "@flight_airports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "47e77d80-f424-41b2-b109-eeeb8d85fdc5",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " origin is ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "alias": "origin",
+        "meta": "@flight_airports",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "4b6eba12-a9ef-4a3a-92c9-09e3f45262a9",
+    "data": [
+      {
+        "text": "what if number of passengers is ",
+        "userDefined": false
+      },
+      {
+        "text": "633",
+        "alias": "passengers",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "6af4819d-c0a0-43dd-b0ad-0d6142368018",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " flight is going to ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "destination",
+        "meta": "@flight_airports",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "521bd274-cb19-4e1d-9357-4210c6afe928",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " flight is carrying only ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "passengers",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " passengers ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "b29a86e7-cbca-4e3a-96f4-67a84b02316d",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " flight is from ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai airport",
+        "alias": "origin",
+        "meta": "@flight_airports",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "3f4879f2-8b6c-4ae8-aa8e-0e09ba9bab67",
+    "data": [
+      {
+        "text": "are there more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "26e07c1f-5ff5-4bb5-8216-62df74fc5f9e",
+    "data": [
+      {
+        "text": "what else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "cf923e19-fcb6-4f29-ae13-e5c849c6d746",
+    "data": [
+      {
+        "text": "show me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "c01bba18-79f9-45d7-acc8-03a9aa713a1a",
+    "data": [
+      {
+        "text": "more information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "5093a8d3-ecbb-4ea9-8207-cd184ae551a2",
+    "data": [
+      {
+        "text": "other results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "92b57f5b-bee0-4ff5-9d03-b8d162842c0e",
+    "data": [
+      {
+        "text": "tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "f70280c9-6ba9-43cb-a0bc-977e1f7da19a",
+    "data": [
+      {
+        "text": "more results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "7d52db98-fd09-40ba-9bc9-5e4c9d88d253",
+    "data": [
+      {
+        "text": "more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  },
+  {
+    "id": "54b784a6-5c02-4829-8420-2f8052fb5c9f",
+    "data": [
+      {
+        "text": "anything else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531043307
+  }
+]

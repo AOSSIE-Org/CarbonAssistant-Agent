@@ -1,0 +1,301 @@
+[
+  {
+    "id": "41c6f18d-8b07-4e90-b5ab-77abdd155aae",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " source is ",
+        "userDefined": false
+      },
+      {
+        "text": "Pune",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "0afe4ca5-b74f-467f-93e8-8467ef93de26",
+    "data": [
+      {
+        "text": "what if ",
+        "userDefined": false
+      },
+      {
+        "text": "the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " destination is ",
+        "userDefined": false
+      },
+      {
+        "text": "Chennai",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "fb41b4f9-be4d-4233-88bc-7d6e8de9df6f",
+    "data": [
+      {
+        "text": "what if I\u0027m driving from ",
+        "userDefined": false
+      },
+      {
+        "text": "New Delhi",
+        "alias": "origin",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "5c7db002-d4a3-4640-8aa2-2c61bc3f350b",
+    "data": [
+      {
+        "text": "what if mileage is ",
+        "userDefined": false
+      },
+      {
+        "text": "22",
+        "alias": "mileage",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " km ",
+        "userDefined": false
+      },
+      {
+        "text": "per",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " litre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "fed068b5-363b-47dc-b042-8d9bdd063b74",
+    "data": [
+      {
+        "text": "how about if I\u0027m driving ",
+        "userDefined": false
+      },
+      {
+        "text": "to",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mumbai",
+        "alias": "destination",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "c7e65129-771b-48ed-bb7d-0643283cd85c",
+    "data": [
+      {
+        "text": "what if it was a ",
+        "userDefined": false
+      },
+      {
+        "text": "diesel",
+        "alias": "fuel_type",
+        "meta": "@fuels",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "car",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "d16b757f-6062-41fa-86c1-af114d3df8a7",
+    "data": [
+      {
+        "text": "what are ",
+        "userDefined": false
+      },
+      {
+        "text": "methane",
+        "alias": "emission_type",
+        "meta": "@emission_type",
+        "userDefined": false
+      },
+      {
+        "text": " emissions ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "ad55e617-c3e1-4e50-bf08-6589b37e0953",
+    "data": [
+      {
+        "text": "are there more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "f0a4674e-d6dd-4288-b1ce-4777d92f5738",
+    "data": [
+      {
+        "text": "what else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "bbb9591b-d65f-40e0-88c9-09819ff5fba6",
+    "data": [
+      {
+        "text": "show me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "850945f9-299b-44c7-8091-dece73281a27",
+    "data": [
+      {
+        "text": "more information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "7c16b7a3-61b2-49e7-9fb4-895152567bd8",
+    "data": [
+      {
+        "text": "other results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "1d91ac79-5f15-45b5-b960-a2f297b3c739",
+    "data": [
+      {
+        "text": "tell me more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "d4329418-d2f4-4230-809a-ceb5e692f7f0",
+    "data": [
+      {
+        "text": "more results",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "a4d9d9e0-51b6-45ae-bfc7-6332d1e45849",
+    "data": [
+      {
+        "text": "more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  },
+  {
+    "id": "ff2f7657-9f08-42fe-bf37-34a7287fe05e",
+    "data": [
+      {
+        "text": "anything else",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531045384
+  }
+]

@@ -1,24 +1,18 @@
 {
-  "id": "6963e224-28a6-44a1-86f9-ba54286ef625",
-  "name": "Default Welcome Intent",
+  "id": "fb1b37d8-3d7d-4e0b-b4cc-03064ee4623f",
+  "name": "permission_confirmation",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "action": "input.welcome",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": [
-            "Hi!",
-            "Hello!",
-            "Good day!",
-            "Greetings!"
-          ]
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},
@@ -28,14 +22,11 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1529403498,
+  "lastUpdate": 1529403971,
   "fallbackIntent": false,
   "events": [
     {
-      "name": "GOOGLE_ASSISTANT_WELCOME"
-    },
-    {
-      "name": "WELCOME"
+      "name": "actions_intent_PERMISSION"
     }
   ]
 }
