@@ -25,18 +25,38 @@
         },
         {
           "id": "fddb7392-d6d0-4570-8170-fd8501c029fb",
-          "required": false,
+          "required": true,
           "dataType": "@appliances",
           "name": "appliance",
           "value": "$appliance",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I didn\u0027t get the appliance you were looking for. Can you please say the appliance name again?"
+            },
+            {
+              "lang": "en",
+              "value": "Sorry I didn\u0027t get the appliance name you said, what was it?"
+            }
+          ],
           "isList": false
         },
         {
           "id": "6f697f04-82de-44ba-a7df-fb12e86724cd",
-          "required": false,
+          "required": true,
           "dataType": "@sys.geo-country",
           "name": "geo_country",
           "value": "$geo_country",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I need the name of the country where the appliance is being used to provide you with accurate emissions. Can you tell me the country name?"
+            },
+            {
+              "lang": "en",
+              "value": "I need the country name to tell you about emissions. What country is the appliance being used in ?"
+            }
+          ],
           "isList": false
         },
         {
@@ -86,7 +106,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1530633490,
+  "lastUpdate": 1532365781,
   "fallbackIntent": false,
   "events": []
 }
