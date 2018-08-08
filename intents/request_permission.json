@@ -1,0 +1,29 @@
+{
+  "id": "fd5bdc8f-2cc7-4d3c-bc64-d53c4a228d23",
+  "name": "request_permission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.request_permission",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533382086,
+  "fallbackIntent": false,
+  "events": []
+}
