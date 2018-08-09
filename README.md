@@ -9,6 +9,9 @@ CarbonFootPrint DialogFlow agent is one part of the Google Assistant Action name
   - Support across all categories such as obtaining emissions caused due to a road trip to somewhere OR due to train journey between two stations AND even due to Flights between two airports along with specification of number of passengers (e.g: "How much emissions are produced after I take a flight from Mumbai to Dubai ?")
   - Support for appliance usage along with their types, region of usage and their counts. (e.g: How much emissions are caused by 2 CRT TVs used for 11 hours in Canada?")
   - Support for queries related to emissions caused by meat and poultry productions (e.g: "What emissions are released for 3 kg beef production ?")
+  - Reverse lookup and provide user-relatable emission comparisons (Provides you real-life examples which produce similar emissions)
+ - Context management support (Able to remember what you said last and continue conversation over it)
+ - Slot filling support (Able to recognize and re-enquire missing pieces of required information in your query)
 
 ### Deploying
 
@@ -27,10 +30,6 @@ The deployment of the Google Assistant Action is done in two parts: Deployment o
 - That's it, you are almost there! Next select the 'Integrations' tab and then under Google Assistant section click on 'Integration Settings' and click on Test! You are done!
 - Now, the Google assistant action has been deployed only for your Gmail account. You can fire up your Google Assistant app and test it!
 
-### Todos - Phase II
-
- - Reverse lookup and provide user-relatable emission comparisons
- - Context management support
 
 License
 ----
