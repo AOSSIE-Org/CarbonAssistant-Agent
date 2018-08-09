@@ -10,8 +10,8 @@ CarbonFootPrint DialogFlow agent is one part of the Google Assistant Action name
   - Support for appliance usage along with their types, region of usage and their counts. (e.g: How much emissions are caused by 2 CRT TVs used for 11 hours in Canada?")
   - Support for queries related to emissions caused by meat and poultry productions (e.g: "What emissions are released for 3 kg beef production ?")
   - Reverse lookup and provide user-relatable emission comparisons (Provides you real-life examples which produce similar emissions)
- - Context management support (Able to remember what you said last and continue conversation over it)
- - Slot filling support (Able to recognize and re-enquire missing pieces of required information in your query)
+  - Context management support (Able to remember what you said last and continue conversation over it)
+  - Slot filling support (Able to recognize and re-enquire missing pieces of required information in your query)
 
 ### Deploying
 
