@@ -13,15 +13,19 @@
           "type": "simple_response",
           "platform": "google",
           "lang": "en",
+          "customizeAudio": true,
           "items": [
             {
-              "textToSpeech": "Alright! See you later. Have a nice day"
+              "textToSpeech": "Alright! See you later. Have a nice day!",
+              "displayText": "Alright! See you later. Have a nice day!"
             },
             {
-              "textToSpeech": "Ok! Let\u0027s do this again later sometime :)"
+              "textToSpeech": "Ok! Let\u0027s do this again later sometime!",
+              "displayText": "Ok! Let\u0027s do this again later sometime! :) :)"
             },
             {
-              "textToSpeech": "Ok bye! :)"
+              "textToSpeech": "Ok bye!",
+              "displayText": "Ok bye! :)"
             }
           ]
         },
@@ -38,7 +42,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1529491310,
+  "lastUpdate": 1531205879,
   "fallbackIntent": false,
   "events": [
     {

@@ -17,18 +17,38 @@
       "parameters": [
         {
           "id": "fdfdfd48-b5a5-4439-9041-759def621297",
-          "required": false,
+          "required": true,
           "dataType": "@flight_airports",
           "name": "origin",
           "value": "$origin",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, I couldn\u0027t understand from where the flight will take off. Can you tell me the origin of your flight? You can say the name of the city, airport or the code of the airport if you will."
+            },
+            {
+              "lang": "en",
+              "value": "I didn\u0027t get the source of your requested flight travel, could you tell me from where the flight will take off?"
+            }
+          ],
           "isList": false
         },
         {
           "id": "be426acf-7d08-4a73-9705-d5d75936c2bb",
-          "required": false,
+          "required": true,
           "dataType": "@flight_airports",
           "name": "destination",
           "value": "$destination",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry, but where will the flight land? I couldn\u0027t understand correctly the destination of your flight travel"
+            },
+            {
+              "lang": "en",
+              "value": "Ok. where will this flight land? I mean what city or airport ?"
+            }
+          ],
           "isList": false
         },
         {
@@ -68,7 +88,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1527858601,
+  "lastUpdate": 1532367066,
   "fallbackIntent": false,
   "events": []
 }

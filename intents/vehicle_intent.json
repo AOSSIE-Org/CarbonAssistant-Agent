@@ -25,18 +25,38 @@
         },
         {
           "id": "2d020c2a-3b6f-4805-a402-60446ce1e132",
-          "required": false,
+          "required": true,
           "dataType": "@sys.geo-city",
           "name": "destination",
           "value": "$destination",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Ok. A road trip is happening from $origin, but where does it end ? Sorry, I didn\u0027t pick that up."
+            },
+            {
+              "lang": "en",
+              "value": "Alright. Where does this road trip end? Could you tell me the name of the city ?"
+            }
+          ],
           "isList": false
         },
         {
           "id": "051d199f-33b3-431d-9a97-da3a808dc48b",
-          "required": false,
+          "required": true,
           "dataType": "@sys.geo-city",
           "name": "origin",
           "value": "$origin",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "From where does this road trip to $destination begin ? Could you tell me the source of this journey?"
+            },
+            {
+              "lang": "en",
+              "value": "From which place does this road trip begin?"
+            }
+          ],
           "isList": false
         },
         {
@@ -70,7 +90,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1527950983,
+  "lastUpdate": 1532368950,
   "fallbackIntent": false,
   "events": []
 }
