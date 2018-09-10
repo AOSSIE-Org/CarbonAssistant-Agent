@@ -1,0 +1,64 @@
+[
+  {
+    "id": "08013f8f-5d75-4b5a-928b-87e9974afdbb",
+    "data": [
+      {
+        "text": "requestpermissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "961e6539-3bf3-4e49-ae8f-a64756cae23e",
+    "data": [
+      {
+        "text": "request for permission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533382086
+  },
+  {
+    "id": "5da88cc4-8e88-4d7e-a99d-9b4747a4a084",
+    "data": [
+      {
+        "text": "ask",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " permission",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533382086
+  },
+  {
+    "id": "3f9e9f7f-78c6-44fc-8c82-92472265a4bf",
+    "data": [
+      {
+        "text": "request permissions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533382086
+  }
+]
